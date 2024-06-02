@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.titulo {
+    color: red;
+}
+
+.img {
+    width: 10;
+}
+
+.img {
+    color: white;
+    background: url(images/0-badboys.jpg);
+    background-repeat: no-repeat;
+}
+
+.lorem {
+    text-align: start;
+    padding: 250px 850px 0 10px;
+    background-repeat: no-repeat;
+}
+
+.subtitulo {
+ color: whitesmoke;
+}
+
+.boton {
+margin:20px;
+}
